@@ -27,9 +27,9 @@ Thaumcraft 6 is all about drawing magic from physical objects in the form of Ess
 
 **Minecraft Version**: 1.12.2  
 
-**Thaumcraft Version**: 6.1.BETA26 
 
 <center>
+    <b>Thaumcraft Version</b>: 6.1.BETA26 <br>
     <b><a href="https://minecraft.curseforge.com/projects/thaumcraft/" target="_blank">CurseForge</a></b>
     --
    <b><a href="https://github.com/Azanor/thaumcraft-beta" target="_blank">GitHub</a></b>
