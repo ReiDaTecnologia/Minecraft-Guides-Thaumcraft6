@@ -1,6 +1,6 @@
 ---
 title: 'PDF Download'
-external_url: 'https://tc6.minecraftguides.net/Thaumcraft%206%20-%20A%20Comprehensive%20Guide.pdf'
+external_url: 'https://minecraftguides.net/tc6/Thaumcraft%206%20-%20A%20Comprehensive%20Guide.pdf'
 visible: true
 twitterenable: true
 twittercardoptions: summary
