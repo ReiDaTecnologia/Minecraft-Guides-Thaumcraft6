@@ -2,11 +2,13 @@
 
 Using Github we are able to update and edit each guide without having to take each guide offline! This also allows other GitHub users to add updates to each guide whether it be corrections or updates. This also allows us to save older versions of each guide as an archive.
 
-Using githubs also enables us to have strict version control and makes it much simpler to communicate changes with everyone.
+Using github also enables us to have strict version control and makes it much simpler to communicate changes with everyone.
 
 As we move each guide to GitHub/Website the associated Google Doc will be closed, Google Docs will only be used as an initial starting point of each guide.
 
 Every page and image from each guides website is here!
+
+View the guide [here](https://minecraftguides.net/tc6/).
 
 ## How to edit files
 Editing guides and having your changes be accepted is relatively simple and can be done by anyone who has a GitHub account.
