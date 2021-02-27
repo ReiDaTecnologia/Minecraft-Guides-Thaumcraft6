@@ -9,5 +9,5 @@ twittercardoptions: summary
 facebookenable: false
 ---
 
-These will spawn from rifts, you can scan these to unlock this research.
+These will spawn from rifts and Taint Geysers, you can scan these to unlock this research.
 
